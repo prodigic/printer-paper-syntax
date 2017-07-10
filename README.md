@@ -1,5 +1,5 @@
 # printer-paper-syntax theme
 
-A short description of your theme.
+A syntax theme the looks like 70's style computer printout paper
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/prodigic/printer-paper-syntax/master/preview.png)
